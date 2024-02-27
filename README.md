@@ -9,8 +9,6 @@ Fortnite PKG US Passcode key: 4uD7qyfx9TRfRLP7kQTWjxWdh8zb85eY
 
 # Fortnite-PS4-Archive-Build
 
-## Found Builds
-
 
 # Chapter 1 - Seasons 0 & 1
 |     Build     |   EU Direct Download   |  US Direct Download |

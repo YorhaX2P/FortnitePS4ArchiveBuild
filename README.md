@@ -17,7 +17,7 @@ Fortnite PKG US Passcode key: 4uD7qyfx9TRfRLP7kQTWjxWdh8zb85eY
 |     v1.28      |[PKG Download](http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA07669_00/34/f_ef42e7d8ef90ae97f00052f5fad9d10027aa0b699b282c4e60f1641b07194549/f/EP1464-CUSA07669_00-FORTNITETESTING1-A0128-V0100_0.pkg)| [PKG Download](http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA07022_00/35/f_e55a708ffb0bc42659533260f4f7df45cb4540b0d8eeda13323b16d03b34871b/f/UP1477-CUSA07022_00-FORTNITETESTING1-A0128-V0100_0.pkg) |
 
 # Chapter 2 - Coming soon
-|     Build     |   Installer   |  Direct Download |
+|     Build     |   EU Direct Download   |  US Direct Download |
 | ------------- |:-------------:| ------------- |
 |     N/A     |       N/A    |       N/A |
 |     N/A     |       N/A    |       N/A |

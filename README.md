@@ -32,6 +32,8 @@ Fortnite PKG US Passcode key: ZcR3MhZHd1jeAiX20yR-jmnPEqo-9Pog
 |     N/A     |       N/A    |       N/A |
 
 ## EZFN discussion & Questions
-If you have any questions, please join our EZFN discord server,
+If you have any questions, please join our EZFN discord server.
+<br>
 EZFN OG Fortnite server: https://discord.gg/fortnitemobile
+<br>
 EZFN Hybrid Fortnite server: https://discord.gg/dRTrqjhyGW

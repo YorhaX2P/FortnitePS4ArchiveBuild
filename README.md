@@ -42,47 +42,47 @@ v1.23 - v1.7.2 - October 17, 2017
 
 
 * v1.24 - v1.8 - October 26, 2017
-v1.25 - v1.8.1 - November 2, 2017
-v1.26 - v1.8.2 - November 8, 2017
-v1.27 - v1.9 - November 14, 2017
-v1.28 - v1.9 (Content Update) - November 20, 2017
-v1.29 - v1.9.1 - November 29, 2017
-v1.30 - v1.10 - November 6, 2017
+* v1.25 - v1.8.1 - November 2, 2017
+* v1.26 - v1.8.2 - November 8, 2017
+* v1.27 - v1.9 - November 14, 2017
+* v1.28 - v1.9 (Content Update) - November 20, 2017
+* v1.29 - v1.9.1 - November 29, 2017
+* v1.30 - v1.10 - November 6, 2017
 
 
 -------- Chapter 1 Season 2 --------
 
 
-v1.31 - v1.11 (Small Shield Update) - December 14, 2017
-v1.32 - v1.11 - (Boogie Bomb Update) December 19, 2017
-v1.33 - v1.11 (Silenced Pistol Update) - December 23, 2017
-v1.34 - v2.1.0 - January 2, 2018
-v1.35 - v2.2.0 - January 10, 2018
-v1.36 - v2.3.0 - January 18, 2018
-v1.37 - v2.4.0 - January 25, 2018
-v1.38 - v2.4.2 - January 31, 2018
-v1.39 - v2.5.0 - February 13, 2018
+* v1.31 - v1.11 (Small Shield Update) - December 14, 2017
+* v1.32 - v1.11 - (Boogie Bomb Update) December 19, 2017
+* v1.33 - v1.11 (Silenced Pistol Update) - December 23, 2017
+* v1.34 - v2.1.0 - January 2, 2018
+* v1.35 - v2.2.0 - January 10, 2018
+* v1.36 - v2.3.0 - January 18, 2018
+* v1.37 - v2.4.0 - January 25, 2018
+* v1.38 - v2.4.2 - January 31, 2018
+* v1.39 - v2.5.0 - February 13, 2018
 
 
 -------- Chapter 1 Season 3 --------
 
 
-v1.40 - v3.0 - February 20, 2018
-v1.41 - v3.1.0 - February 27, 2018
-v1.42 - v3.2.0 - March 7, 2018
-v1.43 - v3.3.0 - March 14, 2018
-v1.44 - v3.3.1 - March 22, 2018
-v1.45 - v3.4.0 - March 29, 2018
-v1.46 - v3.4.0 (Content Update) - Apri 4, 2018
-v1.47 - v3.5 April 11, 2018
-v1.48 - v3.5 (Content Update) April 18, 2018
-v1.49 - v3.6 April 22, 2018
+* v1.40 - v3.0 - February 20, 2018
+* v1.41 - v3.1.0 - February 27, 2018
+* v1.42 - v3.2.0 - March 7, 2018
+* v1.43 - v3.3.0 - March 14, 2018
+* v1.44 - v3.3.1 - March 22, 2018
+* v1.45 - v3.4.0 - March 29, 2018
+* v1.46 - v3.4.0 (Content Update) - Apri 4, 2018
+* v1.47 - v3.5 April 11, 2018
+* v1.48 - v3.5 (Content Update) April 18, 2018
+* v1.49 - v3.6 April 22, 2018
 
 
 -------- Chapter 1 Season 4 --------
 
 
-v1.50 - v4.0 - May 1, 2018
+* v1.50 - v4.0 - May 1, 2018
 
 ## EZFN discussion & Questions
 If you have any questions, please join our EZFN discord server.

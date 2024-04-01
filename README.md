@@ -32,10 +32,10 @@
 -------- Chapter 1 Season 0 --------
 
 
-v1.20 - v1.6.4 - September 29, 2017
-v1.21 - v1.7 - October 5, 2017
-v1.22 - v1.7.1 - October 12, 2017
-v1.23 - v1.7.2 - October 17, 2017
+* v1.20 - v1.6.4 - September 29, 2017
+* v1.21 - v1.7 - October 5, 2017
+* v1.22 - v1.7.1 - October 12, 2017
+* v1.23 - v1.7.2 - October 17, 2017
 
 
 -------- Chapter 1 Season 1 --------

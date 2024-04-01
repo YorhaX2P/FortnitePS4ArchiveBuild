@@ -41,7 +41,7 @@ v1.23 - v1.7.2 - October 17, 2017
 -------- Chapter 1 Season 1 --------
 
 
-v1.24 - v1.8 - October 26, 2017
+* v1.24 - v1.8 - October 26, 2017
 v1.25 - v1.8.1 - November 2, 2017
 v1.26 - v1.8.2 - November 8, 2017
 v1.27 - v1.9 - November 14, 2017

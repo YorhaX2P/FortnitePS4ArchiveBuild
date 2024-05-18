@@ -85,7 +85,7 @@
 * v1.50 - v4.0 - May 1, 2018
 
 ## EZFN discussion & Questions
-If you have any questions, please join our EZFN discord server.
+If you have any questions, please join the EZFN discord server.
 <br>
 **EZFN OG Fortnite server:** https://discord.gg/fortnitemobile
 <br>

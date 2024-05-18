@@ -5,9 +5,9 @@
 <br>
 **Official archive:** https://github.com/SametChan/FortnitePS4ArchiveBuild
 
-**Fortnite PKG EUR Passcode key:** ZcR3MhZHd1jeAiX20yR-jmnPEqo-9Pog
+**Fortnite PKG EUR Passcode key:** 4uD7qyfx9TRfRLP7kQTWjxWdh8zb85eY
 
-**Fortnite PKG US Passcode key:** 4uD7qyfx9TRfRLP7kQTWjxWdh8zb85eY
+**Fortnite PKG US Passcode key:** ZcR3MhZHd1jeAiX20yR-jmnPEqo-9Pog
 
 
 

@@ -1,9 +1,7 @@
 # FortnitePS4ArchiveBuild
 **Fortnite PS4 Archive Build**
 <br>
-**Created by Samet Chan:** https://github.com/SametChan
-<br>
-**Official archive:** https://github.com/SametChan/FortnitePS4ArchiveBuild
+**Official archive:** https://github.com/YorhaX2P/FortnitePS4ArchiveBuild
 
 **Fortnite PKG EUR Passcode key:** 4uD7qyfx9TRfRLP7kQTWjxWdh8zb85eY
 

@@ -73,8 +73,8 @@
 * v1.45 - v3.4.0 - March 29, 2018
 * v1.46 - v3.4.0 (Content Update) - Apri 4, 2018
 * v1.47 - v3.5 April 11, 2018
-* v1.48 - v3.5 (Content Update) April 18, 2018
-* v1.49 - v3.6 April 22, 2018
+* v1.xx - v3.5 (Content Update) April 18, 2018 (idk, according to orbispatches it doesn't exist so imma just leave it here)
+* v1.48 - v3.6 April 22, 2018
 
 
 -------- Chapter 1 Season 4 --------
